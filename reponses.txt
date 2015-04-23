@@ -1,0 +1,15 @@
+1) le mot clé this fait référence a l'objet en cour, il permet de préciser quel objet on utilise exactement.
+
+2)le mot clé super, il fait appel a la class au dessu et recuper ses attribut. exemple : super(prix) =  va prendre le prix de la class au dessu de lui
+
+3) l'instanciation permet de générer un objet (instancier un objet ) a partire d'une class.
+
+4) la class va permetre de fabriquer l'objet grace au attribut et methode dans notre class, l'objet sera le fruit de notre class, ce sera un enssemble.
+
+5)un mock est un objet simulé qui reproduise le comportement d'objets réel de manière controlé. exemple: dansles test Unitaire on peut simuler un objet.
+
+6) le scaffolding est un procedé qui permet de générer du code trés rapidement. exemple: génération du CRUD.
+
+7)RAD Permet de créer rapidement des applications de développement.
+
+8) le réfactoring permet de bien indenter ton code pour mieux le lire. 
